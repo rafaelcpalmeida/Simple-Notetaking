@@ -1,0 +1,31 @@
+body {
+	font-family: Arial;
+	text-align: center;
+	width: 300px;
+	min-height: 325px;
+	margin: 0px;
+}
+
+
+header {
+    background: #EE8C00;
+    color: white;
+	padding: 10px;
+}
+
+header h1 {
+	margin: 0;
+	padding 0;
+}
+
+h1 {
+	font-size: 20px;
+	text-align: center;
+	margin: 10px;
+}
+
+textarea
+{
+	width: 300px;
+	min-height: 325px;
+}
