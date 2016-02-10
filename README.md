@@ -12,6 +12,11 @@ It accepts only simple text without any formatting.
 ## How it works
 SNT uses your browser local storage to save the information you write in the box.
 
+## Does this syncronizes between my devices?
+Short answer is: no.
+
+Long answer is: maybe someday in the future. Would you like it to sync? Great, just modify that piece of code and make a Pull Request :thumbsup:
+
 ## What is it good for
 - Quick notetaking
 - Store a bunch of text just because you want to
